@@ -1,3 +1,3 @@
 # BilLib
 
-![alt text](https://raw.githubusercontent.com/kazimsanlav/Images/1.png)
+![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/1.png)
