@@ -1,6 +1,7 @@
 # BilLib
 ##  Introduction 
 Bilkent  students  have  some  difficulty  to  find  book’s location with  current system  in  the  library.  There  are  lots  of  letters  and  numbers  that  symbolize  locations  so  it  makes  student lose time.  Thus,  I  decided  to  develop  a  mobile  application  that  helps  student  to  find  book’s  location easily.  It is aimed that  the  program should  be  basic  that  can  be  used  by  all  students  and  staff  easily.  It is also aimed that  the  application  gives  people  ability  to  find  book’s  location  by  using  visual  description.  Finally, it is  decided  that  the  program  should  be  written  in  Android  environment,  so  that  students  can  use  the  app  in  their  mobile  phones  at  the  library  and  can  get  notifications.
+
 ## Details
 <h3> Using  Bilkent  Library  Web  Site </h3>
 
@@ -32,3 +33,17 @@ Bilkent  students  have  some  difficulty  to  find  book’s location with  cur
    
 ![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/3.png)
 
+<h3 >Building  Plan  </h3> 
+
+   After  user  press  the  find  button,  app  will  show  the  Bilkent  Library  building  plan and  the  correct  floor  will  be  highlighted. 
+   
+![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/4.png)
+
+<h3 >Floor  Plan  </h3>
+
+   After  user  click  on  the  highlighted  field,  app  will  show  the  top  view  of  corresponding  floor  with  shelves  in  it.  Also,  shelf  of  the  book  will  be  highlighted.
+
+![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/5.png)
+
+##  Summary & Conclusion
+Library  Book  Finder  will  be  developed  for  Bilkent  students.  The  aim  of  the  application  is  to  ease  the  process  of  finding  books  from  library. It  will  be  easy  to  use  and  students  can  use  it  anywhere,  anytime.  By  logging  in,  they  will  also  get  notifications  about  due  dates  of  borrowed  books  which  will  prevent  them  from  possible  punishments.   
