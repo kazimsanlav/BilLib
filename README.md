@@ -18,5 +18,11 @@ Bilkent  students  have  some  difficulty  to  find  book’s location with  cur
 
    When  the  user  searches  for  a  book  and  click  the  find  location  button,  our  program  will  highlight  which  building  and  floor  that  is  in  on  Bilkent  library  building  plan.  After  user  click  on  highlighted  location,  application  will  show  the  top  view  of  that  floor  and  highlight  exact  shelf  of  that  book.  To  do  that,  we  will  store  image  of  the  Bilkent  library’s  floor  plan  of  A  and  B  building.  Then,  for  each  building  we  will  store  top  view  of  each  floor  in  our  app.  According  to  shelfs’  location,  our  app  will  choice  the  appropriate  image  and  highlight  (draw  a  circle)  on  exact  location  of  shelf.   
    
+## User  Interface   
+<h3 >First  Page </h3> 
+
+   When  the  user  opens  the  application,  they  will  see  figure  1.  On  the  top  there  is  a  login  option  for  getting  notifications  (figure  6).  There  is  a  text  field  for  typing  the  book’s  name  and  searching  button.  At  the  bottom,  there  are  two  buttons  library  rules  and  notifications  (figure  7).
    
 ![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/1.png)
+![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/6.png)
+
