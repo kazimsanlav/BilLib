@@ -21,8 +21,14 @@ Bilkent  students  have  some  difficulty  to  find  book’s location with  cur
 ## User  Interface   
 <h3 >First  Page </h3> 
 
-   When  the  user  opens  the  application,  they  will  see  figure  1.  On  the  top  there  is  a  login  option  for  getting  notifications  (figure  6).  There  is  a  text  field  for  typing  the  book’s  name  and  searching  button.  At  the  bottom,  there  are  two  buttons  library  rules  and  notifications  (figure  7).
+   When  the  user  opens  the  application,  they  will  see the main page.  On  the  top  there  is  a  login  option  for  getting  notifications.  There  is  a  text  field  for  typing  the  book’s  name  and  searching  button.  At  the  bottom,  there  are  two  buttons  library  rules  and  notifications.
    
 ![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/1.png)
 ![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/6.png)
+ 
+<h3 >Book  Info </h3> 
+
+   When  user  choose  a  book  on  the  list  and  click  on  it,  information  about  that  book  (name,  author,  call  number,  availability,  location...)    will  be  shown.  Right  next  to  book  information,  there  is  a  find  button  which  will  actually  show  the  location  of  the  book  to  user.  
+   
+![alt text](https://github.com/kazimsanlav/BilLib/blob/master/Images/3.png)
 
